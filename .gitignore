@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+/.next/
+/out/
+/build
+
+# debug
+npm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Large Media
+public/*.mp4
+*.mp4
+Video Project 2.mp4
+Screen Recording *
+.git
